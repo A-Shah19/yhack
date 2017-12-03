@@ -1,0 +1,42 @@
+* {
+	font-family: Arial;
+}
+
+p {	
+	font-size: 16pt;
+	line-height: 10%;
+}
+
+ul {
+	padding-left: 10%;
+	font-size: 20pt;
+	list-style-type: none;
+	text-align: left;
+}
+
+h1 {
+	margin-left: 25%
+}
+
+img {
+	border: 1px solid #ddd;
+	border-radius: 5%;
+	width: 100pt;
+	height: 100pt;
+	float: right;
+	margin-right: 47%;
+}
+
+Link {
+	color: #006837;
+}
+
+.container {
+	padding-top: 15px;
+	padding-bottom: 20px;
+	margin-top:40px;
+	margin-left: 35%;
+	margin-right: 35%;
+	background: rgb(220, 220, 220);
+	border-radius: 62px;
+}
