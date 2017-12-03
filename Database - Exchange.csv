@@ -1,0 +1,51 @@
+Buyer,Seller,Item,Date,Best_by,Sell_by,Cost,Amount_sold,Description,Location
+Alaine Buhr,Sheila Moniz,Carrots,2017-11-22,2017-12-05,2017-12-04,3.25,0.5,Carrots,Berkley Common Room
+Leeanne Belin,Phoebe Vallarta,Alfalfa sprouts,2017-11-22,2017-12-06,2017-12-04,1.50,0.75,Alfalfa sprouts,Pierson Courtyard
+Nova Whittemore,Malisa Snapp,Azuki beans,2017-11-22,2017-12-07,2017-12-04,1.00,0.25,Azuki beans,Davenport Courtyard
+Charity Lymon,Merle Mabee,Bean sprouts,2017-11-22,2017-12-07,2017-12-04,2.50,0.625,Bean sprouts,Pierson Courtyard
+Delores Servantes,Melaine Williams,Bread,2017-11-23,2017-12-07,2017-12-04,3.50,0.625,Bread,Pierson Courtyard
+Loyce Sowinski,Shamika Polk,Cheese,2017-11-23,2017-12-07,2017-12-04,3.25,0.5,Cheese,Saybrook Underbrook
+Marlena Markle,Jesica Lowman,Black beans,2017-11-23,2017-12-07,2017-12-04,2.50,0.75,Black beans,Berkley Common Room
+Ngan Wannamaker,Tashia Gorsuch,Black-eyed peas,2017-11-23,2017-12-07,2017-12-04,4.25,0.5,Black-eyed peas,Saybrook Underbrook
+Marcie Gokey,Lawana Perfecto,Borlotti bean,2017-11-23,2017-12-07,2017-12-04,3.50,0.75,Borlotti bean,Pierson Courtyard
+Rodrigo Florio,Maya Frawley,Broad beans,2017-11-24,2017-12-07,2017-12-05,4.50,0.5,Broad beans,Berkley Common Room
+Elli Paluch,Rosendo Blue,Chives,2017-11-25,2017-12-07,2017-12-05,4.25,0.5,Chives,JE Courtyard
+Shaunna Hardin,Mica Boruff,Garlic,2017-11-25,2017-12-08,2017-12-05,4.00,0.25,Garlic,Davenport Courtyard
+Cassaundra Gamon,Shanae Armstrong,Cheese,2017-11-25,2017-12-08,2017-12-05,4.50,0.5,Cheese,Davenport Courtyard
+Nelly Amyx,Haywood Wilbourn,Onion,2017-11-25,2017-12-08,2017-12-05,3.00,0.5,Onion,Benjamin Franklin
+Marcella Welk,Clair Kershner,Shallot,2017-11-25,2017-12-08,2017-12-05,4.50,0.75,Shallot,Berkley Common Room
+Napoleon Tarpley,Selene Bushell,Apple,2017-11-26,2017-12-08,2017-12-05,4.00,0.25,Apple,Davenport Courtyard
+Michel Chew,Toshiko Krum,Bread,2017-11-26,2017-12-09,2017-12-05,2.00,0.75,Bread,Berkley Common Room
+Echo Lachance,Malorie Barns,Avocado,2017-11-26,2017-12-09,2017-12-06,1.00,0.625,Avocado,Branford Courtyard
+Raymonde Marley,Rayford Ackermann,Banana,2017-11-27,2017-12-09,2017-12-06,4.00,0.75,Banana,Branford Courtyard
+Beatriz Lindeman,Larae Kish,Bilberry,2017-11-27,2017-12-09,2017-12-06,1.75,0.625,Bilberry,Davenport Courtyard
+Nicolas Stinson,Mandie Pinckard,Blackberry,2017-11-27,2017-12-09,2017-12-06,3.75,0.75,Blackberry,Grace Hopper Courtyard
+Charlott Kilday,Tabitha Maugeri,Chickpeas,2017-11-27,2017-12-09,2017-12-06,3.25,0.75,Chickpeas,Benjamin Franklin
+Sherwood Adcox,Lesli Garnica,Green beans,2017-11-27,2017-12-09,2017-12-07,4.00,0.75,Green beans,JE Courtyard
+Omar Qureshi,Dan Handsome,Bread,2017-11-28,2017-12-09,2017-12-07,2.25,0.75,Bread,Saybrook Underbrook
+Omar Qureshi,Dan Handsome,Bread,2017-11-28,2017-12-09,2017-12-07,2.75,0.25,Bread,Branford Courtyard
+Omar Qureshi,Dan Handsome,Bread,2017-11-28,2017-12-09,2017-12-07,3.75,0.25,Bread,Saybrook Underbrook
+Omar Qureshi,Dan Handsome,Bread,2017-11-28,2017-12-10,2017-12-07,2.75,0.75,Bread,Benjamin Franklin
+Darci Bundy,Annita Radabaugh,Lemon,2017-11-28,2017-12-10,2017-12-07,4.00,0.5,Lemon,Pauli Murray
+Sonja Ayres,Gilma Hazlett,Orange,2017-11-28,2017-12-10,2017-12-08,3.50,0.25,Orange,Saybrook Underbrook
+Youlanda Brow,Maricruz Porcaro,Bread,2017-11-29,2017-12-10,2017-12-08,4.50,0.5,Bread,Grace Hopper Courtyard
+Roberto Liang,Rogelio Heyward,Split peas,2017-11-29,2017-12-11,2017-12-08,3.75,0.75,Split peas,Pierson Courtyard
+Akiko Mauro,Viola Piel,Soy beans,2017-11-29,2017-12-11,2017-12-08,3.75,0.25,Soy beans,Benjamin Franklin
+Eleonora Bryand,Tinisha Shine,Peas,2017-11-29,2017-12-11,2017-12-08,3.25,0.75,Peas,Pauli Murray
+Adrien Heinze,Tiffaney Bagg,Bread,2017-11-29,2017-12-11,2017-12-08,1.00,0.75,Bread,Branford Courtyard
+Codi Fenster,Zelda Hauptman,Apple,2017-11-29,2017-12-12,2017-12-08,3.25,0.25,Apple,Saybrook Underbrook
+Charlette Hickle,Cristie Current,Apricot,2017-11-29,2017-12-12,2017-12-09,1.25,0.5,Apricot,Berkley Common Room
+Paige Henline,Hope Schunk,Avocado,2017-11-30,2017-12-12,2017-12-09,3.50,0.5,Avocado,Branford Courtyard
+Jamey Flood,Bari Olesen,Banana,2017-11-30,2017-12-12,2017-12-09,2.50,0.5,Banana,Branford Courtyard
+Velvet Macbeth,Mellie Halbrook,Bilberry,2017-11-30,2017-12-12,2017-12-09,4.50,0.75,Bilberry,Branford Courtyard
+Cleta Riviera,Mozella Piermarini,Blackberry,2017-11-30,2017-12-12,2017-12-10,1.25,0.5,Blackberry,JE Courtyard
+Alexandra Earwood,Tayna Liakos,Navy beans,2017-11-30,2017-12-13,2017-12-10,2.25,0.25,Navy beans,Pauli Murray
+Carleen Beacham,Mathew Erben,Pinto beans,2017-11-30,2017-12-14,2017-12-10,4.25,0.25,Pinto beans,Pauli Murray
+Clarissa Manjarrez,Tameka Parillo,Runner beans,2017-12-01,2017-12-14,2017-12-10,2.75,0.5,Runner beans,Pierson Courtyard
+Manie Berrier,Jacklyn Estes,Cheese,2017-12-01,2017-12-14,2017-12-11,3.50,0.5,Cheese,Grace Hopper Courtyard
+Melissa Schipper,Madeleine Rieth,Bread,2017-12-01,2017-12-14,2017-12-11,4.00,0.5,Bread,JE Courtyard
+Nicki Gonzalas,Jo Ezzell,Leek,2017-12-01,2017-12-14,2017-12-11,1.25,0.625,Leek,Grace Hopper Courtyard
+Regina Mcquiggan,Glennis Blackshire,Apple,2017-12-01,2017-12-14,2017-12-11,1.75,0.5,Apple,Davenport Courtyard
+Kenisha Garvin,Louann Navarre,Carrots,2017-12-01,2017-12-15,2017-12-11,2.75,0.125,Carrots,JE Courtyard
+Gertude Ruck,Alma Stagner,Alfalfa sprouts,2017-12-02,2017-12-15,2017-12-11,3.00,0.5,Alfalfa sprouts,JE Courtyard
+Robbin Beahm,Felisa Iorio,Azuki beans,2017-12-02,2017-12-15,2017-12-11,1.00,0.75,Azuki beans,Benjamin Franklin
