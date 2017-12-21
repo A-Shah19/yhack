@@ -1,0 +1,113 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  min-height: 25px;
+  max-height: 100px;
+  max-width: 100px;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+
+.Page {
+  border: 3px solid;
+
+  min-width: 200px;
+  max-width: 350px;
+
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+
+.Food-item {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+
+  padding: 10px;
+
+  border: 1px solid;
+  border-radius: 10px;
+
+  overflow: auto;
+}
+
+.Food-image {
+  float: left;
+  vertical-align: center;
+  width: 33%;
+}
+
+.Food-info {
+  float: right;
+  vertical-align: center;
+  text-align: left;
+  line-height: 150%;
+  width: 66%;
+}
+
+.Profile-header {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 10px;
+  overflow: auto;
+
+  position:relative;
+}
+
+.Profile-header-info {
+  float: left;
+  text-align: right;
+  vertical-align: center;
+  width: 66%;
+}
+
+.Profile-image {
+  float: right;
+  vertical-align: middle;
+  width: 30%;
+}
+
+.Profile-info {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: left;
+  line-height: 150%;
+
+  border: 1px solid;
+  border-radius: 5px;
+
+  overflow: auto;
+}
+
+.button {
+  float: left;
+  padding: 8px 16px;
+  margin-left: 10px;
+  margin-top: 10px;
+  border-radius: 11px;
+  color: black;
+  font-size: 14px;
+  vertical-align: middle;
+}
+
+ul {
+  list-style-type: none;
+}
+
