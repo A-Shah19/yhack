@@ -1,0 +1,38 @@
+.App-logo {
+  min-height: 25px;
+  max-height: 100px;
+  max-width: 100px;
+}
+
+.Food-item {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+
+  padding: 10px;
+
+  border: 1px solid;
+  border-radius: 10px;
+
+  overflow: auto;
+}
+
+.Food-image {
+  float: left;
+  vertical-align: center;
+  width: 33%;
+}
+
+.Food-info {
+  float: right;
+  vertical-align: center;
+  text-align: left;
+  line-height: 150%;
+  width: 66%;
+}
+
+ul {
+  list-style-type: none;
+}
+

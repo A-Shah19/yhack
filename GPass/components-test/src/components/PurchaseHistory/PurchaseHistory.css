@@ -1,0 +1,24 @@
+.App-title {
+  font-size: 1.5em;
+}
+
+.Page {
+  border: 3px solid;
+
+  min-width: 350px;
+  max-width: 400px;
+
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.header {
+  overflow: auto;
+}
+
+.back {
+  float: left;
+  margin: 10px;
+}

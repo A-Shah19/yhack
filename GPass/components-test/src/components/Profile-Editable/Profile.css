@@ -1,0 +1,80 @@
+.App-logo {
+  min-height: 25px;
+  max-height: 100px;
+  max-width: 100px;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.Page {
+  border: 3px solid;
+
+  min-width: 350px;
+  max-width: 400px;
+
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.Profile-header {
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 10px;
+  overflow: auto;
+
+  position:relative;
+}
+
+.Profile-header-info {
+  float: right;
+  text-align: left;
+  vertical-align: center;
+  width: 66%;
+}
+
+.Profile-image {
+  float: left;
+  vertical-align: middle;
+  width: 30%;
+}
+
+.Profile-info {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+
+  padding-left: 10%;
+
+  text-align: left;
+  line-height: 150%;
+
+  border: 1px solid;
+  border-radius: 5px;
+
+  overflow: auto;
+}
+
+.header {
+  overflow: auto;
+}
+
+.back {
+  float: left;
+  margin: 10px;
+}
+
+.history {
+  float: right;
+  margin: 10px;
+}
+
+ul {
+  list-style-type: none;
+}
+
