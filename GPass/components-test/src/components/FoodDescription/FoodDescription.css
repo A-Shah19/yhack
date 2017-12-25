@@ -1,0 +1,71 @@
+.App-logo {
+  min-height: 25px;
+  max-height: 100px;
+  max-width: 100px;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.Page {
+  border: 3px solid;
+
+  min-width: 350px;
+  max-width: 400px;
+
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.Food{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+
+  padding-left: 10%;
+
+  text-align: left;
+
+  border: 1px solid;
+  border-radius: 10px;
+
+  overflow: auto;
+}
+
+.Timeline {
+  margin-right: 15%;
+  margin-left: 5%;
+
+  border-radius: 5px;
+
+  background: GRAY;
+}
+
+.Timeline-inner {
+  border-radius: 10px;
+
+  margin-left: 10%;
+  margin-right: 25%;
+
+  padding-left: 20px;
+
+  background: GREEN;
+}
+
+.header {
+  overflow: auto;
+}
+
+.back {
+  margin: 10px;
+}
+
+.message {
+  float: right;
+  margin: 10px;
+}
+
